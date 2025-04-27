@@ -1,2 +1,2 @@
-# Limb-Impedance-measurement-using-GeoMagic-Touch-Haptic-Device
+# Limb Impedance Estimation During a Constrained Haptic Tracking Task with Force Perturbation
 Class Project 2 Human-Robot Interaction
